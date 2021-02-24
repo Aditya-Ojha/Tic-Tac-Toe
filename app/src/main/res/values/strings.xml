@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="single_player">Single Player</string>
+    <string name="multi_player">Multi Player</string>
+    <string name="settings">Settings</string>
+    <string name="x_s_turn">X\'s Turn.....</string>
+    <string name="user_play_images1">user play images</string>
+    <string name="user_play_images2">user play images</string>
+    <string name="user_play_images3">user play images</string>
+    <string name="user_play_images4">user play images</string>
+    <string name="user_play_images5">user play images</string>
+    <string name="user_play_images6">user play images</string>
+    <string name="user_play_images7">user play images</string>
+    <string name="user_play_images8">user play images</string>
+    <string name="user_play_images9">user play images</string>
+    <string name="layout_image1">layout image</string>
+    <string name="layout_image2">layout image</string>
+</resources>
